@@ -1,2 +1,0 @@
-D:\学习项目\安全编程\测试\Miller_Rabin\Debug\Miller_Rabin.exe
-D:\学习项目\安全编程\测试\Miller_Rabin\Debug\Miller_Rabin.pdb
